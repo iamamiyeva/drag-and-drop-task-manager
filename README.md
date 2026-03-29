@@ -31,3 +31,7 @@ I built this project to practice:
 - Add new tasks input
 - Save tasks using localStorage
 - Improve UI design
+
+## Live Demo
+
+https://iamamiyeva.github.io/drag-and-drop-task-manager/
